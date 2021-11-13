@@ -1,0 +1,22 @@
+course/node_modules
+
+course/pnp
+course/.pnp.js
+
+
+# testing
+course/coverage
+
+# production
+course/build
+
+# misc
+course/.DS_Store
+course/.env.local
+course/.env.development.local
+course/.env.test.local
+course/.env.production.local
+
+course/npm-debug.log*
+course/yarn-debug.log*
+course/yarn-error.log*
